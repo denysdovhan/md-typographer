@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "remark": "^6.2.0",
-    "remark-textr": "^2.0.2",
+    "remark-textr": "^3.0.0",
     "typographic-base": "^1.0.3"
   }
 }
